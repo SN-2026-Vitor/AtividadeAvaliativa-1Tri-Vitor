@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-09-08T15:40:55.698966+00:00",
+  "updated_at": "2026-09-09T15:34:48.622505+00:00",
   "airport_icao": "SBRJ",
   "airport_name": "Rio / Santos Dumont",
   "source": "AviationStack",
   "arrivals": [
     {
-      "callsign": "JJ3974",
+      "callsign": "JJ3122",
       "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T12:30:00+00:00",
+      "time_iso": "2026-09-09T12:30:00+00:00",
       "status": "programado"
     },
     {
@@ -18,8 +18,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T20:00:00+00:00",
-      "time_iso": "2026-09-08T20:00:00+00:00",
+      "scheduled": "2026-09-09T20:00:00+00:00",
+      "time_iso": "2026-09-09T20:00:00+00:00",
       "status": "programado"
     },
     {
@@ -27,8 +27,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T19:55:00+00:00",
-      "time_iso": "2026-09-08T19:55:00+00:00",
+      "scheduled": "2026-09-09T19:55:00+00:00",
+      "time_iso": "2026-09-09T19:55:00+00:00",
       "status": "programado"
     },
     {
@@ -36,8 +36,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T19:45:00+00:00",
-      "time_iso": "2026-09-08T19:45:00+00:00",
+      "scheduled": "2026-09-09T19:45:00+00:00",
+      "time_iso": "2026-09-09T19:45:00+00:00",
       "status": "programado"
     },
     {
@@ -45,8 +45,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T19:35:00+00:00",
-      "time_iso": "2026-09-08T19:35:00+00:00",
+      "scheduled": "2026-09-09T19:35:00+00:00",
+      "time_iso": "2026-09-09T19:35:00+00:00",
       "status": "programado"
     },
     {
@@ -54,8 +54,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T19:15:00+00:00",
-      "time_iso": "2026-09-08T19:15:00+00:00",
+      "scheduled": "2026-09-09T19:15:00+00:00",
+      "time_iso": "2026-09-09T19:15:00+00:00",
       "status": "programado"
     },
     {
@@ -63,35 +63,26 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T19:55:00+00:00",
-      "time_iso": "2026-09-08T19:55:00+00:00",
+      "scheduled": "2026-09-09T19:55:00+00:00",
+      "time_iso": "2026-09-09T19:55:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "TP5723",
-      "airline": "TAP Air Portugal",
+      "callsign": "JJ3956",
+      "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T19:55:00+00:00",
-      "time_iso": "2026-09-08T19:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "JJ3122",
-      "airline": "LATAM Airlines",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T12:30:00+00:00",
-      "time_iso": "2026-09-08T12:15:00+00:00",
+      "scheduled": "2026-09-09T13:30:00+00:00",
+      "time_iso": "2026-09-09T13:16:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "AD4305",
+      "callsign": "AD4751",
       "airline": "Azul",
-      "airport": "SBKP",
-      "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T18:20:00+00:00",
-      "time_iso": "2026-09-08T18:20:00+00:00",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-09T18:40:00+00:00",
+      "time_iso": "2026-09-09T18:40:00+00:00",
       "status": "programado"
     },
     {
@@ -99,8 +90,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T19:05:00+00:00",
-      "time_iso": "2026-09-08T19:05:00+00:00",
+      "scheduled": "2026-09-09T19:05:00+00:00",
+      "time_iso": "2026-09-09T19:05:00+00:00",
       "status": "programado"
     },
     {
@@ -108,8 +99,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T18:50:00+00:00",
-      "time_iso": "2026-09-08T18:50:00+00:00",
+      "scheduled": "2026-09-09T18:50:00+00:00",
+      "time_iso": "2026-09-09T18:50:00+00:00",
       "status": "programado"
     },
     {
@@ -117,8 +108,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T18:45:00+00:00",
-      "time_iso": "2026-09-08T18:45:00+00:00",
+      "scheduled": "2026-09-09T18:45:00+00:00",
+      "time_iso": "2026-09-09T18:45:00+00:00",
       "status": "programado"
     },
     {
@@ -126,26 +117,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T18:35:00+00:00",
-      "time_iso": "2026-09-08T18:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD4751",
-      "airline": "Azul",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T18:40:00+00:00",
-      "time_iso": "2026-09-08T18:40:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP5182",
-      "airline": "TAP Air Portugal",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T18:40:00+00:00",
-      "time_iso": "2026-09-08T18:40:00+00:00",
+      "scheduled": "2026-09-09T18:35:00+00:00",
+      "time_iso": "2026-09-09T18:35:00+00:00",
       "status": "programado"
     },
     {
@@ -153,8 +126,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T19:40:00+00:00",
-      "time_iso": "2026-09-08T19:40:00+00:00",
+      "scheduled": "2026-09-09T19:40:00+00:00",
+      "time_iso": "2026-09-09T19:40:00+00:00",
       "status": "programado"
     },
     {
@@ -162,8 +135,17 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T19:40:00+00:00",
-      "time_iso": "2026-09-08T19:40:00+00:00",
+      "scheduled": "2026-09-09T19:40:00+00:00",
+      "time_iso": "2026-09-09T19:40:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD4305",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-09-09T18:20:00+00:00",
+      "time_iso": "2026-09-09T18:20:00+00:00",
       "status": "programado"
     },
     {
@@ -171,35 +153,26 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:20:00+00:00",
-      "time_iso": "2026-09-08T11:21:00+00:00",
+      "scheduled": "2026-09-09T11:20:00+00:00",
+      "time_iso": "2026-09-09T11:21:00+00:00",
       "status": "pousado"
-    },
-    {
-      "callsign": "UA7344",
-      "airline": "United Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T16:45:00+00:00",
-      "time_iso": "2026-09-08T16:45:00+00:00",
-      "status": "programado"
     },
     {
       "callsign": "UX2902",
       "airline": "Air Europa",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T16:45:00+00:00",
-      "time_iso": "2026-09-08T16:45:00+00:00",
+      "scheduled": "2026-09-09T16:45:00+00:00",
+      "time_iso": "2026-09-09T16:45:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "UA7328",
+      "callsign": "UA7344",
       "airline": "United Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T16:45:00+00:00",
-      "time_iso": "2026-09-08T16:45:00+00:00",
+      "scheduled": "2026-09-09T16:45:00+00:00",
+      "time_iso": "2026-09-09T16:45:00+00:00",
       "status": "programado"
     },
     {
@@ -207,8 +180,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T16:45:00+00:00",
-      "time_iso": "2026-09-08T16:45:00+00:00",
+      "scheduled": "2026-09-09T16:45:00+00:00",
+      "time_iso": "2026-09-09T16:45:00+00:00",
       "status": "programado"
     },
     {
@@ -216,8 +189,8 @@
       "airline": "Copa Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T16:45:00+00:00",
-      "time_iso": "2026-09-08T16:45:00+00:00",
+      "scheduled": "2026-09-09T16:45:00+00:00",
+      "time_iso": "2026-09-09T16:45:00+00:00",
       "status": "programado"
     },
     {
@@ -225,8 +198,8 @@
       "airline": "Alitalia",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T16:45:00+00:00",
-      "time_iso": "2026-09-08T16:45:00+00:00",
+      "scheduled": "2026-09-09T16:45:00+00:00",
+      "time_iso": "2026-09-09T16:45:00+00:00",
       "status": "programado"
     },
     {
@@ -234,8 +207,8 @@
       "airline": "Air Canada",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T16:45:00+00:00",
-      "time_iso": "2026-09-08T16:45:00+00:00",
+      "scheduled": "2026-09-09T16:45:00+00:00",
+      "time_iso": "2026-09-09T16:45:00+00:00",
       "status": "programado"
     },
     {
@@ -243,8 +216,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T18:00:00+00:00",
-      "time_iso": "2026-09-08T18:00:00+00:00",
+      "scheduled": "2026-09-09T18:00:00+00:00",
+      "time_iso": "2026-09-09T18:00:00+00:00",
       "status": "programado"
     },
     {
@@ -252,8 +225,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:55:00+00:00",
-      "time_iso": "2026-09-08T17:55:00+00:00",
+      "scheduled": "2026-09-09T17:55:00+00:00",
+      "time_iso": "2026-09-09T17:55:00+00:00",
       "status": "programado"
     },
     {
@@ -261,8 +234,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:30:00+00:00",
-      "time_iso": "2026-09-08T17:30:00+00:00",
+      "scheduled": "2026-09-09T17:30:00+00:00",
+      "time_iso": "2026-09-09T17:30:00+00:00",
       "status": "programado"
     },
     {
@@ -270,8 +243,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T18:25:00+00:00",
-      "time_iso": "2026-09-08T18:25:00+00:00",
+      "scheduled": "2026-09-09T18:25:00+00:00",
+      "time_iso": "2026-09-09T18:25:00+00:00",
       "status": "programado"
     },
     {
@@ -279,26 +252,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T10:25:00+00:00",
-      "time_iso": "2026-09-08T10:19:00+00:00",
+      "scheduled": "2026-09-09T10:25:00+00:00",
+      "time_iso": "2026-09-09T10:23:00+00:00",
       "status": "pousado"
-    },
-    {
-      "callsign": "JJ3550",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T08:35:00+00:00",
-      "time_iso": "2026-09-08T09:06:00+00:00",
-      "status": "programado"
     },
     {
       "callsign": "JJ3536",
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T11:05:00+00:00",
-      "time_iso": "2026-09-08T10:46:00+00:00",
+      "scheduled": "2026-09-09T11:05:00+00:00",
+      "time_iso": "2026-09-09T10:52:00+00:00",
       "status": "pousado"
     },
     {
@@ -306,8 +270,8 @@
       "airline": "Azul",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T16:45:00+00:00",
-      "time_iso": "2026-09-08T16:45:00+00:00",
+      "scheduled": "2026-09-09T16:45:00+00:00",
+      "time_iso": "2026-09-09T16:45:00+00:00",
       "status": "programado"
     },
     {
@@ -315,8 +279,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:05:00+00:00",
-      "time_iso": "2026-09-08T17:05:00+00:00",
+      "scheduled": "2026-09-09T17:05:00+00:00",
+      "time_iso": "2026-09-09T17:05:00+00:00",
       "status": "programado"
     },
     {
@@ -324,8 +288,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:10:00+00:00",
+      "scheduled": "2026-09-09T17:10:00+00:00",
+      "time_iso": "2026-09-09T17:10:00+00:00",
       "status": "programado"
     },
     {
@@ -333,8 +297,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:00:00+00:00",
-      "time_iso": "2026-09-08T17:00:00+00:00",
+      "scheduled": "2026-09-09T17:00:00+00:00",
+      "time_iso": "2026-09-09T17:00:00+00:00",
       "status": "programado"
     },
     {
@@ -342,8 +306,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T16:35:00+00:00",
-      "time_iso": "2026-09-08T16:35:00+00:00",
+      "scheduled": "2026-09-09T16:35:00+00:00",
+      "time_iso": "2026-09-09T16:35:00+00:00",
       "status": "programado"
     },
     {
@@ -351,8 +315,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T16:35:00+00:00",
-      "time_iso": "2026-09-08T16:35:00+00:00",
+      "scheduled": "2026-09-09T16:35:00+00:00",
+      "time_iso": "2026-09-09T16:35:00+00:00",
       "status": "programado"
     },
     {
@@ -360,8 +324,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T16:30:00+00:00",
-      "time_iso": "2026-09-08T16:30:00+00:00",
+      "scheduled": "2026-09-09T16:30:00+00:00",
+      "time_iso": "2026-09-09T16:30:00+00:00",
       "status": "programado"
     },
     {
@@ -369,8 +333,8 @@
       "airline": "Azul",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T16:25:00+00:00",
-      "time_iso": "2026-09-08T16:25:00+00:00",
+      "scheduled": "2026-09-09T16:25:00+00:00",
+      "time_iso": "2026-09-09T16:25:00+00:00",
       "status": "programado"
     },
     {
@@ -378,8 +342,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:25:00+00:00",
-      "time_iso": "2026-09-08T09:15:00+00:00",
+      "scheduled": "2026-09-09T09:25:00+00:00",
+      "time_iso": "2026-09-09T09:29:00+00:00",
       "status": "pousado"
     },
     {
@@ -387,8 +351,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T16:00:00+00:00",
-      "time_iso": "2026-09-08T16:00:00+00:00",
+      "scheduled": "2026-09-09T16:00:00+00:00",
+      "time_iso": "2026-09-09T16:00:00+00:00",
       "status": "programado"
     },
     {
@@ -396,8 +360,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T15:50:00+00:00",
-      "time_iso": "2026-09-08T15:50:00+00:00",
+      "scheduled": "2026-09-09T15:50:00+00:00",
+      "time_iso": "2026-09-09T15:50:00+00:00",
       "status": "programado"
     },
     {
@@ -405,8 +369,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T16:30:00+00:00",
-      "time_iso": "2026-09-08T16:30:00+00:00",
+      "scheduled": "2026-09-09T16:30:00+00:00",
+      "time_iso": "2026-09-09T16:30:00+00:00",
       "status": "programado"
     },
     {
@@ -414,8 +378,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T16:30:00+00:00",
-      "time_iso": "2026-09-08T16:30:00+00:00",
+      "scheduled": "2026-09-09T16:30:00+00:00",
+      "time_iso": "2026-09-09T16:30:00+00:00",
       "status": "programado"
     },
     {
@@ -423,44 +387,35 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T16:20:00+00:00",
-      "time_iso": "2026-09-08T16:20:00+00:00",
+      "scheduled": "2026-09-09T16:20:00+00:00",
+      "time_iso": "2026-09-09T16:20:00+00:00",
       "status": "programado"
+    },
+    {
+      "callsign": "JJ3550",
+      "airline": "LATAM Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T08:35:00+00:00",
+      "time_iso": "2026-09-09T08:34:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "JJ3904",
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:30:00+00:00",
-      "time_iso": "2026-09-08T08:07:00+00:00",
+      "scheduled": "2026-09-09T08:30:00+00:00",
+      "time_iso": "2026-09-09T08:27:00+00:00",
       "status": "pousado"
     },
     {
-      "callsign": "DL7392",
-      "airline": "Delta Air Lines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR5225",
-      "airline": "Qatar Airways",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "IB6647",
-      "airline": "Iberia",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
+      "callsign": "AD5086",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-09-09T14:35:00+00:00",
+      "time_iso": "2026-09-09T14:35:00+00:00",
       "status": "programado"
     },
     {
@@ -468,8 +423,35 @@
       "airline": "Delta Air Lines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
+      "scheduled": "2026-09-09T13:10:00+00:00",
+      "time_iso": "2026-09-09T13:10:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5225",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T13:10:00+00:00",
+      "time_iso": "2026-09-09T13:10:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "IB6647",
+      "airline": "Iberia",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T13:10:00+00:00",
+      "time_iso": "2026-09-09T13:10:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "DL7392",
+      "airline": "Delta Air Lines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T13:10:00+00:00",
+      "time_iso": "2026-09-09T13:10:00+00:00",
       "status": "programado"
     },
     {
@@ -477,8 +459,8 @@
       "airline": "British Airways",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
+      "scheduled": "2026-09-09T13:10:00+00:00",
+      "time_iso": "2026-09-09T13:10:00+00:00",
       "status": "programado"
     },
     {
@@ -486,17 +468,8 @@
       "airline": "Aeromexico",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD5086",
-      "airline": "Azul",
-      "airport": "SBKP",
-      "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T14:35:00+00:00",
-      "time_iso": "2026-09-08T14:35:00+00:00",
+      "scheduled": "2026-09-09T13:10:00+00:00",
+      "time_iso": "2026-09-09T13:10:00+00:00",
       "status": "programado"
     },
     {
@@ -504,8 +477,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T15:10:00+00:00",
-      "time_iso": "2026-09-08T15:10:00+00:00",
+      "scheduled": "2026-09-09T15:10:00+00:00",
+      "time_iso": "2026-09-09T15:10:00+00:00",
       "status": "programado"
     },
     {
@@ -513,8 +486,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T14:55:00+00:00",
-      "time_iso": "2026-09-08T14:55:00+00:00",
+      "scheduled": "2026-09-09T14:55:00+00:00",
+      "time_iso": "2026-09-09T14:55:00+00:00",
       "status": "programado"
     },
     {
@@ -522,44 +495,62 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T14:40:00+00:00",
-      "time_iso": "2026-09-08T14:40:00+00:00",
+      "scheduled": "2026-09-09T14:40:00+00:00",
+      "time_iso": "2026-09-09T14:40:00+00:00",
       "status": "programado"
+    },
+    {
+      "callsign": "JJ3902",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T07:45:00+00:00",
+      "time_iso": "2026-09-09T07:43:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "JJ3048",
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T08:05:00+00:00",
-      "time_iso": "2026-09-08T07:52:00+00:00",
+      "scheduled": "2026-09-09T08:05:00+00:00",
+      "time_iso": "2026-09-09T08:08:00+00:00",
       "status": "pousado"
     },
     {
-      "callsign": "CM7063",
-      "airline": "Copa Airlines",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T12:55:00+00:00",
-      "time_iso": "2026-09-08T12:48:00+00:00",
-      "status": "em voo"
+      "callsign": "JJ3900",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T07:20:00+00:00",
+      "time_iso": "2026-09-09T07:14:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "LA3974",
       "airline": "LATAM Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
-      "status": "em voo"
+      "scheduled": "2026-09-09T13:10:00+00:00",
+      "time_iso": "2026-09-09T13:10:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "G31020",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T14:10:00+00:00",
-      "time_iso": "2026-09-08T14:10:00+00:00",
+      "scheduled": "2026-09-09T14:10:00+00:00",
+      "time_iso": "2026-09-09T14:10:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3532",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T14:00:00+00:00",
+      "time_iso": "2026-09-09T14:00:00+00:00",
       "status": "programado"
     },
     {
@@ -567,8 +558,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T13:25:00+00:00",
-      "time_iso": "2026-09-08T13:25:00+00:00",
+      "scheduled": "2026-09-09T13:25:00+00:00",
+      "time_iso": "2026-09-09T13:25:00+00:00",
       "status": "programado"
     },
     {
@@ -576,8 +567,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T13:10:00+00:00",
-      "time_iso": "2026-09-08T13:10:00+00:00",
+      "scheduled": "2026-09-09T13:10:00+00:00",
+      "time_iso": "2026-09-09T13:10:00+00:00",
       "status": "programado"
     },
     {
@@ -585,8 +576,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T14:10:00+00:00",
-      "time_iso": "2026-09-08T14:10:00+00:00",
+      "scheduled": "2026-09-09T14:10:00+00:00",
+      "time_iso": "2026-09-09T14:10:00+00:00",
       "status": "programado"
     },
     {
@@ -594,8 +585,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T14:10:00+00:00",
-      "time_iso": "2026-09-08T14:10:00+00:00",
+      "scheduled": "2026-09-09T14:10:00+00:00",
+      "time_iso": "2026-09-09T14:10:00+00:00",
       "status": "programado"
     },
     {
@@ -603,17 +594,17 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T12:40:00+00:00",
-      "time_iso": "2026-09-08T12:40:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T12:40:00+00:00",
+      "time_iso": "2026-09-09T12:32:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "LA3122",
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T12:30:00+00:00",
-      "time_iso": "2026-09-08T12:30:00+00:00",
+      "scheduled": "2026-09-09T12:30:00+00:00",
+      "time_iso": "2026-09-09T12:30:00+00:00",
       "status": "em voo"
     },
     {
@@ -621,26 +612,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T12:20:00+00:00",
-      "time_iso": "2026-09-08T12:02:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3956",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T13:30:00+00:00",
-      "time_iso": "2026-09-08T13:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "AD2963",
-      "airline": "Azul",
-      "airport": "SBKP",
-      "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T13:05:00+00:00",
-      "time_iso": "2026-09-08T12:49:00+00:00",
+      "scheduled": "2026-09-09T12:20:00+00:00",
+      "time_iso": "2026-09-09T12:28:00+00:00",
       "status": "em voo"
     },
     {
@@ -648,35 +621,80 @@
       "airline": "Azul",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T12:55:00+00:00",
-      "time_iso": "2026-09-08T12:48:00+00:00",
+      "scheduled": "2026-09-09T12:55:00+00:00",
+      "time_iso": "2026-09-09T12:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "CM7063",
+      "airline": "Copa Airlines",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-09T12:55:00+00:00",
+      "time_iso": "2026-09-09T12:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3956",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-09T13:30:00+00:00",
+      "time_iso": "2026-09-09T13:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD2963",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-09-09T13:05:00+00:00",
+      "time_iso": "2026-09-09T13:05:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "CM3506",
+      "airline": "Copa Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-09T10:45:00+00:00",
+      "time_iso": "2026-09-09T10:38:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "AV2653",
+      "airline": "avianca",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-09T10:45:00+00:00",
+      "time_iso": "2026-09-09T10:38:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "G31014",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:55:00+00:00",
-      "time_iso": "2026-09-08T12:25:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T11:55:00+00:00",
+      "time_iso": "2026-09-09T11:50:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "LA3910",
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:20:00+00:00",
-      "time_iso": "2026-09-08T11:20:00+00:00",
-      "status": "em voo"
+      "scheduled": "2026-09-09T11:20:00+00:00",
+      "time_iso": "2026-09-09T11:20:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "AD6418",
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:10:00+00:00",
-      "time_iso": "2026-09-08T10:51:00+00:00",
+      "scheduled": "2026-09-09T11:10:00+00:00",
+      "time_iso": "2026-09-09T11:31:00+00:00",
       "status": "pousado"
     },
     {
@@ -684,44 +702,17 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T12:25:00+00:00",
-      "time_iso": "2026-09-08T12:10:00+00:00",
-      "status": "pousado"
+      "scheduled": "2026-09-09T12:25:00+00:00",
+      "time_iso": "2026-09-09T12:13:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "TP5926",
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T12:25:00+00:00",
-      "time_iso": "2026-09-08T12:10:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "G31012",
-      "airline": "GOL",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T10:25:00+00:00",
-      "time_iso": "2026-09-08T10:03:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3908",
-      "airline": "LATAM Airlines",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T10:25:00+00:00",
-      "time_iso": "2026-09-08T10:25:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "LA3536",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T11:05:00+00:00",
-      "time_iso": "2026-09-08T11:05:00+00:00",
+      "scheduled": "2026-09-09T12:25:00+00:00",
+      "time_iso": "2026-09-09T12:13:00+00:00",
       "status": "em voo"
     },
     {
@@ -729,62 +720,107 @@
       "airline": "Azul",
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T10:45:00+00:00",
-      "time_iso": "2026-09-08T10:29:00+00:00",
+      "scheduled": "2026-09-09T10:45:00+00:00",
+      "time_iso": "2026-09-09T11:35:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "G31012",
+      "airline": "GOL",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T10:25:00+00:00",
+      "time_iso": "2026-09-09T10:50:00+00:00",
+      "status": "pousado"
+    },
+    {
+      "callsign": "LA3908",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T10:25:00+00:00",
+      "time_iso": "2026-09-09T10:25:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA3536",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-09T11:05:00+00:00",
+      "time_iso": "2026-09-09T11:05:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD2924",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-09-09T09:15:00+00:00",
+      "time_iso": "2026-09-09T08:57:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "DL7350",
+      "airline": "Delta Air Lines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T08:35:00+00:00",
+      "time_iso": "2026-09-09T08:34:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "TK8652",
       "airline": "Turkish Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T08:35:00+00:00",
-      "time_iso": "2026-09-08T09:06:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T08:35:00+00:00",
+      "time_iso": "2026-09-09T08:34:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "QR5232",
       "airline": "Qatar Airways",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T08:35:00+00:00",
-      "time_iso": "2026-09-08T09:06:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T08:35:00+00:00",
+      "time_iso": "2026-09-09T08:34:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "JL5538",
       "airline": "Japan Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T08:35:00+00:00",
-      "time_iso": "2026-09-08T09:06:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T08:35:00+00:00",
+      "time_iso": "2026-09-09T08:34:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "IB6751",
       "airline": "Iberia",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T08:35:00+00:00",
-      "time_iso": "2026-09-08T09:06:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T08:35:00+00:00",
+      "time_iso": "2026-09-09T08:34:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "DL6181",
       "airline": "Delta Air Lines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T08:35:00+00:00",
-      "time_iso": "2026-09-08T09:06:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T08:35:00+00:00",
+      "time_iso": "2026-09-09T08:34:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "G31010",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T10:00:00+00:00",
-      "time_iso": "2026-09-08T09:39:00+00:00",
+      "scheduled": "2026-09-09T10:00:00+00:00",
+      "time_iso": "2026-09-09T09:53:00+00:00",
       "status": "pousado"
     },
     {
@@ -792,35 +828,35 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:45:00+00:00",
-      "time_iso": "2026-09-08T09:23:00+00:00",
-      "status": "pousado"
+      "scheduled": "2026-09-09T09:45:00+00:00",
+      "time_iso": "2026-09-09T09:27:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "LA3906",
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:25:00+00:00",
-      "time_iso": "2026-09-08T09:25:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T09:25:00+00:00",
+      "time_iso": "2026-09-09T09:25:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "G31008",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:25:00+00:00",
-      "time_iso": "2026-09-08T09:26:00+00:00",
-      "status": "pousado"
+      "scheduled": "2026-09-09T09:25:00+00:00",
+      "time_iso": "2026-09-09T09:27:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "G31802",
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T10:45:00+00:00",
-      "time_iso": "2026-09-08T10:43:00+00:00",
+      "scheduled": "2026-09-09T10:45:00+00:00",
+      "time_iso": "2026-09-09T10:38:00+00:00",
       "status": "pousado"
     },
     {
@@ -828,8 +864,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T10:45:00+00:00",
-      "time_iso": "2026-09-08T10:43:00+00:00",
+      "scheduled": "2026-09-09T10:45:00+00:00",
+      "time_iso": "2026-09-09T10:38:00+00:00",
       "status": "pousado"
     },
     {
@@ -837,71 +873,35 @@
       "airline": "Copa Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T10:45:00+00:00",
-      "time_iso": "2026-09-08T10:43:00+00:00",
+      "scheduled": "2026-09-09T10:45:00+00:00",
+      "time_iso": "2026-09-09T10:38:00+00:00",
       "status": "pousado"
     },
     {
-      "callsign": "AD2924",
-      "airline": "Azul",
-      "airport": "SBKP",
-      "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T09:15:00+00:00",
-      "time_iso": "2026-09-08T08:58:00+00:00",
-      "status": "em voo"
+      "callsign": "TP5146",
+      "airline": "TAP Air Portugal",
+      "airport": "SBCF",
+      "airport_name": "Belo Horizonte / Confins",
+      "scheduled": "2026-09-09T07:40:00+00:00",
+      "time_iso": "2026-09-09T07:26:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "LA3550",
       "airline": "LATAM Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T08:35:00+00:00",
-      "time_iso": "2026-09-08T08:35:00+00:00",
-      "status": "em voo"
+      "scheduled": "2026-09-09T08:35:00+00:00",
+      "time_iso": "2026-09-09T08:35:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "G31006",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:00:00+00:00",
-      "time_iso": "2026-09-08T09:35:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3904",
-      "airline": "LATAM Airlines",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:30:00+00:00",
-      "time_iso": "2026-09-08T08:30:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31004",
-      "airline": "GOL",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:25:00+00:00",
-      "time_iso": "2026-09-08T08:11:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "AD2948",
-      "airline": "Azul",
-      "airport": "SBCF",
-      "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T09:10:00+00:00",
-      "time_iso": "2026-09-08T09:03:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "G31002",
-      "airline": "GOL",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T07:55:00+00:00",
-      "time_iso": "2026-09-08T07:40:00+00:00",
+      "scheduled": "2026-09-09T09:00:00+00:00",
+      "time_iso": "2026-09-09T08:50:00+00:00",
       "status": "pousado"
     }
   ],
@@ -911,8 +911,8 @@
       "airline": "Azul",
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T19:00:00+00:00",
-      "time_iso": "2026-09-08T19:00:00+00:00",
+      "scheduled": "2026-09-09T19:00:00+00:00",
+      "time_iso": "2026-09-09T19:00:00+00:00",
       "status": "programado"
     },
     {
@@ -920,8 +920,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T18:45:00+00:00",
-      "time_iso": "2026-09-08T18:45:00+00:00",
+      "scheduled": "2026-09-09T18:45:00+00:00",
+      "time_iso": "2026-09-09T18:45:00+00:00",
       "status": "programado"
     },
     {
@@ -929,8 +929,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T18:40:00+00:00",
-      "time_iso": "2026-09-08T18:40:00+00:00",
+      "scheduled": "2026-09-09T18:40:00+00:00",
+      "time_iso": "2026-09-09T18:40:00+00:00",
       "status": "programado"
     },
     {
@@ -938,8 +938,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:45:00+00:00",
-      "time_iso": "2026-09-08T11:48:00+00:00",
+      "scheduled": "2026-09-09T11:45:00+00:00",
+      "time_iso": "2026-09-09T11:49:00+00:00",
       "status": "em voo"
     },
     {
@@ -947,8 +947,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:10:00+00:00",
-      "time_iso": "2026-09-08T11:13:00+00:00",
+      "scheduled": "2026-09-09T11:10:00+00:00",
+      "time_iso": "2026-09-09T11:19:00+00:00",
       "status": "em voo"
     },
     {
@@ -956,8 +956,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T18:05:00+00:00",
-      "time_iso": "2026-09-08T18:05:00+00:00",
+      "scheduled": "2026-09-09T18:05:00+00:00",
+      "time_iso": "2026-09-09T18:05:00+00:00",
       "status": "programado"
     },
     {
@@ -965,8 +965,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:45:00+00:00",
-      "time_iso": "2026-09-08T17:45:00+00:00",
+      "scheduled": "2026-09-09T17:45:00+00:00",
+      "time_iso": "2026-09-09T17:45:00+00:00",
       "status": "programado"
     },
     {
@@ -974,8 +974,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T17:45:00+00:00",
-      "time_iso": "2026-09-08T17:45:00+00:00",
+      "scheduled": "2026-09-09T17:45:00+00:00",
+      "time_iso": "2026-09-09T17:45:00+00:00",
       "status": "programado"
     },
     {
@@ -983,8 +983,8 @@
       "airline": "Copa Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T17:45:00+00:00",
-      "time_iso": "2026-09-08T17:45:00+00:00",
+      "scheduled": "2026-09-09T17:45:00+00:00",
+      "time_iso": "2026-09-09T17:45:00+00:00",
       "status": "programado"
     },
     {
@@ -992,8 +992,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T17:35:00+00:00",
-      "time_iso": "2026-09-08T17:35:00+00:00",
+      "scheduled": "2026-09-09T17:35:00+00:00",
+      "time_iso": "2026-09-09T17:35:00+00:00",
       "status": "programado"
     },
     {
@@ -1001,17 +1001,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:35:00+00:00",
-      "time_iso": "2026-09-08T17:35:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "G31033",
-      "airline": "GOL",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:30:00+00:00",
-      "time_iso": "2026-09-08T17:30:00+00:00",
+      "scheduled": "2026-09-09T17:35:00+00:00",
+      "time_iso": "2026-09-09T17:35:00+00:00",
       "status": "programado"
     },
     {
@@ -1019,8 +1010,17 @@
       "airline": "Azul",
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T17:30:00+00:00",
-      "time_iso": "2026-09-08T17:30:00+00:00",
+      "scheduled": "2026-09-09T17:30:00+00:00",
+      "time_iso": "2026-09-09T17:30:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "G31033",
+      "airline": "GOL",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T17:30:00+00:00",
+      "time_iso": "2026-09-09T17:30:00+00:00",
       "status": "programado"
     },
     {
@@ -1028,8 +1028,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:10:00+00:00",
+      "scheduled": "2026-09-09T17:10:00+00:00",
+      "time_iso": "2026-09-09T17:10:00+00:00",
       "status": "programado"
     },
     {
@@ -1037,8 +1037,8 @@
       "airline": "Azul",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T17:10:00+00:00",
-      "time_iso": "2026-09-08T17:10:00+00:00",
+      "scheduled": "2026-09-09T17:10:00+00:00",
+      "time_iso": "2026-09-09T17:10:00+00:00",
       "status": "programado"
     },
     {
@@ -1046,17 +1046,26 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T10:40:00+00:00",
-      "time_iso": "2026-09-08T10:48:00+00:00",
+      "scheduled": "2026-09-09T10:40:00+00:00",
+      "time_iso": "2026-09-09T10:54:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "JJ3913",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T09:15:00+00:00",
+      "time_iso": "2026-09-09T10:45:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "AD6405",
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T17:05:00+00:00",
-      "time_iso": "2026-09-08T17:05:00+00:00",
+      "scheduled": "2026-09-09T17:05:00+00:00",
+      "time_iso": "2026-09-09T17:05:00+00:00",
       "status": "programado"
     },
     {
@@ -1064,8 +1073,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T16:55:00+00:00",
-      "time_iso": "2026-09-08T16:55:00+00:00",
+      "scheduled": "2026-09-09T16:55:00+00:00",
+      "time_iso": "2026-09-09T16:55:00+00:00",
       "status": "programado"
     },
     {
@@ -1073,17 +1082,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T16:40:00+00:00",
-      "time_iso": "2026-09-08T16:40:00+00:00",
+      "scheduled": "2026-09-09T16:40:00+00:00",
+      "time_iso": "2026-09-09T16:40:00+00:00",
       "status": "programado"
     },
     {
-      "callsign": "JJ3913",
+      "callsign": "JJ3789",
       "airline": "LATAM Airlines",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:15:00+00:00",
-      "time_iso": "2026-09-08T09:17:00+00:00",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-09T09:20:00+00:00",
+      "time_iso": "2026-09-09T09:27:00+00:00",
       "status": "em voo"
     },
     {
@@ -1091,8 +1100,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T15:55:00+00:00",
-      "time_iso": "2026-09-08T15:55:00+00:00",
+      "scheduled": "2026-09-09T15:55:00+00:00",
+      "time_iso": "2026-09-09T15:55:00+00:00",
       "status": "programado"
     },
     {
@@ -1100,8 +1109,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T15:35:00+00:00",
-      "time_iso": "2026-09-08T15:35:00+00:00",
+      "scheduled": "2026-09-09T15:35:00+00:00",
+      "time_iso": "2026-09-09T15:35:00+00:00",
       "status": "programado"
     },
     {
@@ -1109,8 +1118,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T15:30:00+00:00",
-      "time_iso": "2026-09-08T15:30:00+00:00",
+      "scheduled": "2026-09-09T15:30:00+00:00",
+      "time_iso": "2026-09-09T15:30:00+00:00",
       "status": "programado"
     },
     {
@@ -1118,8 +1127,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T15:20:00+00:00",
-      "time_iso": "2026-09-08T15:20:00+00:00",
+      "scheduled": "2026-09-09T15:20:00+00:00",
+      "time_iso": "2026-09-09T15:20:00+00:00",
       "status": "programado"
     },
     {
@@ -1127,8 +1136,8 @@
       "airline": "Azul",
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T15:15:00+00:00",
-      "time_iso": "2026-09-08T15:15:00+00:00",
+      "scheduled": "2026-09-09T15:15:00+00:00",
+      "time_iso": "2026-09-09T15:15:00+00:00",
       "status": "programado"
     },
     {
@@ -1136,8 +1145,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:45:00+00:00",
-      "time_iso": "2026-09-08T08:49:00+00:00",
+      "scheduled": "2026-09-09T08:45:00+00:00",
+      "time_iso": "2026-09-09T08:55:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3911",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T08:25:00+00:00",
+      "time_iso": "2026-09-09T08:35:00+00:00",
       "status": "em voo"
     },
     {
@@ -1145,8 +1163,17 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T15:00:00+00:00",
-      "time_iso": "2026-09-08T15:00:00+00:00",
+      "scheduled": "2026-09-09T15:00:00+00:00",
+      "time_iso": "2026-09-09T15:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "LA3931",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T14:50:00+00:00",
+      "time_iso": "2026-09-09T14:50:00+00:00",
       "status": "programado"
     },
     {
@@ -1154,8 +1181,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T14:15:00+00:00",
-      "time_iso": "2026-09-08T14:15:00+00:00",
+      "scheduled": "2026-09-09T14:15:00+00:00",
+      "time_iso": "2026-09-09T14:15:00+00:00",
       "status": "programado"
     },
     {
@@ -1163,8 +1190,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T14:10:00+00:00",
-      "time_iso": "2026-09-08T14:10:00+00:00",
+      "scheduled": "2026-09-09T14:10:00+00:00",
+      "time_iso": "2026-09-09T14:10:00+00:00",
       "status": "programado"
     },
     {
@@ -1172,17 +1199,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:00:00+00:00",
-      "time_iso": "2026-09-08T07:58:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3905",
-      "airline": "LATAM Airlines",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T07:10:00+00:00",
-      "time_iso": "2026-09-08T07:14:00+00:00",
+      "scheduled": "2026-09-09T08:00:00+00:00",
+      "time_iso": "2026-09-09T08:04:00+00:00",
       "status": "em voo"
     },
     {
@@ -1190,8 +1208,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T14:05:00+00:00",
-      "time_iso": "2026-09-08T14:05:00+00:00",
+      "scheduled": "2026-09-09T14:05:00+00:00",
+      "time_iso": "2026-09-09T14:05:00+00:00",
       "status": "programado"
     },
     {
@@ -1199,35 +1217,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "QR5248",
-      "airline": "Qatar Airways",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TP6322",
-      "airline": "TAP Air Portugal",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:55:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "TK8653",
-      "airline": "Turkish Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:55:00+00:00",
+      "scheduled": "2026-09-09T13:55:00+00:00",
+      "time_iso": "2026-09-09T13:55:00+00:00",
       "status": "programado"
     },
     {
@@ -1235,8 +1226,35 @@
       "airline": "Qatar Airways",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:55:00+00:00",
+      "scheduled": "2026-09-09T13:55:00+00:00",
+      "time_iso": "2026-09-09T13:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TP6322",
+      "airline": "TAP Air Portugal",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T13:55:00+00:00",
+      "time_iso": "2026-09-09T13:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TK8653",
+      "airline": "Turkish Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T13:55:00+00:00",
+      "time_iso": "2026-09-09T13:55:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "QR5248",
+      "airline": "Qatar Airways",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T13:55:00+00:00",
+      "time_iso": "2026-09-09T13:55:00+00:00",
       "status": "programado"
     },
     {
@@ -1244,8 +1262,8 @@
       "airline": "Iberia",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:55:00+00:00",
-      "time_iso": "2026-09-08T13:55:00+00:00",
+      "scheduled": "2026-09-09T13:55:00+00:00",
+      "time_iso": "2026-09-09T13:55:00+00:00",
       "status": "programado"
     },
     {
@@ -1253,8 +1271,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1262,8 +1280,8 @@
       "airline": "Azul",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1271,8 +1289,8 @@
       "airline": "United Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1280,8 +1298,17 @@
       "airline": "TAP Air Portugal",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "TK9174",
+      "airline": "Turkish Airlines",
+      "airport": "SBGR",
+      "airport_name": "Sao Paulo / Guarulhos",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1289,8 +1316,8 @@
       "airline": "Ethiopian Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1298,8 +1325,8 @@
       "airline": "Emirates",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1307,8 +1334,8 @@
       "airline": "Alitalia",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1316,8 +1343,8 @@
       "airline": "avianca",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1325,8 +1352,8 @@
       "airline": "Air Canada",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T13:45:00+00:00",
+      "scheduled": "2026-09-09T13:45:00+00:00",
+      "time_iso": "2026-09-09T13:45:00+00:00",
       "status": "programado"
     },
     {
@@ -1334,8 +1361,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T13:40:00+00:00",
-      "time_iso": "2026-09-08T13:40:00+00:00",
+      "scheduled": "2026-09-09T13:40:00+00:00",
+      "time_iso": "2026-09-09T13:40:00+00:00",
       "status": "programado"
     },
     {
@@ -1343,8 +1370,8 @@
       "airline": "Azul",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T13:35:00+00:00",
-      "time_iso": "2026-09-08T13:35:00+00:00",
+      "scheduled": "2026-09-09T13:35:00+00:00",
+      "time_iso": "2026-09-09T13:35:00+00:00",
       "status": "programado"
     },
     {
@@ -1352,8 +1379,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T13:35:00+00:00",
-      "time_iso": "2026-09-08T13:35:00+00:00",
+      "scheduled": "2026-09-09T13:35:00+00:00",
+      "time_iso": "2026-09-09T13:35:00+00:00",
       "status": "programado"
     },
     {
@@ -1361,8 +1388,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T13:30:00+00:00",
-      "time_iso": "2026-09-08T13:30:00+00:00",
+      "scheduled": "2026-09-09T13:30:00+00:00",
+      "time_iso": "2026-09-09T13:30:00+00:00",
       "status": "programado"
     },
     {
@@ -1370,26 +1397,26 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T13:25:00+00:00",
-      "time_iso": "2026-09-08T13:25:00+00:00",
+      "scheduled": "2026-09-09T13:25:00+00:00",
+      "time_iso": "2026-09-09T13:25:00+00:00",
       "status": "programado"
+    },
+    {
+      "callsign": "JJ3905",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T07:10:00+00:00",
+      "time_iso": "2026-09-09T07:08:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "JJ3173",
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T06:45:00+00:00",
-      "time_iso": "2026-09-08T06:48:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "JJ3259",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T06:45:00+00:00",
-      "time_iso": "2026-09-08T06:46:00+00:00",
+      "scheduled": "2026-09-09T06:45:00+00:00",
+      "time_iso": "2026-09-09T06:46:00+00:00",
       "status": "em voo"
     },
     {
@@ -1397,8 +1424,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T06:30:00+00:00",
-      "time_iso": "2026-09-08T06:34:00+00:00",
+      "scheduled": "2026-09-09T06:30:00+00:00",
+      "time_iso": "2026-09-09T06:37:00+00:00",
       "status": "em voo"
     },
     {
@@ -1406,8 +1433,17 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T06:10:00+00:00",
-      "time_iso": "2026-09-08T06:16:00+00:00",
+      "scheduled": "2026-09-09T06:10:00+00:00",
+      "time_iso": "2026-09-09T06:19:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "JJ3793",
+      "airline": "LATAM Airlines",
+      "airport": "SBBR",
+      "airport_name": "Brasilia",
+      "scheduled": "2026-09-09T06:00:00+00:00",
+      "time_iso": "2026-09-09T06:07:00+00:00",
       "status": "em voo"
     },
     {
@@ -1415,8 +1451,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T12:50:00+00:00",
-      "time_iso": "2026-09-08T12:50:00+00:00",
+      "scheduled": "2026-09-09T12:50:00+00:00",
+      "time_iso": "2026-09-09T12:50:00+00:00",
       "status": "em voo"
     },
     {
@@ -1424,8 +1460,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T12:20:00+00:00",
-      "time_iso": "2026-09-08T12:20:00+00:00",
+      "scheduled": "2026-09-09T12:20:00+00:00",
+      "time_iso": "2026-09-09T12:20:00+00:00",
       "status": "em voo"
     },
     {
@@ -1433,8 +1469,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T12:20:00+00:00",
-      "time_iso": "2026-09-08T12:20:00+00:00",
+      "scheduled": "2026-09-09T12:20:00+00:00",
+      "time_iso": "2026-09-09T12:20:00+00:00",
       "status": "em voo"
     },
     {
@@ -1442,8 +1478,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T12:15:00+00:00",
-      "time_iso": "2026-09-08T12:15:00+00:00",
+      "scheduled": "2026-09-09T12:15:00+00:00",
+      "time_iso": "2026-09-09T12:15:00+00:00",
       "status": "em voo"
     },
     {
@@ -1451,35 +1487,17 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T14:15:00+00:00",
-      "time_iso": "2026-09-08T14:15:00+00:00",
+      "scheduled": "2026-09-09T14:15:00+00:00",
+      "time_iso": "2026-09-09T14:15:00+00:00",
       "status": "programado"
-    },
-    {
-      "callsign": "JJ3793",
-      "airline": "LATAM Airlines",
-      "airport": "SBBR",
-      "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T06:00:00+00:00",
-      "time_iso": "2026-09-08T06:04:00+00:00",
-      "status": "em voo"
     },
     {
       "callsign": "G31019",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:55:00+00:00",
-      "time_iso": "2026-09-08T11:59:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "LA3925",
-      "airline": "LATAM Airlines",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:45:00+00:00",
-      "time_iso": "2026-09-08T11:45:00+00:00",
+      "scheduled": "2026-09-09T11:55:00+00:00",
+      "time_iso": "2026-09-09T12:01:00+00:00",
       "status": "em voo"
     },
     {
@@ -1487,8 +1505,17 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:45:00+00:00",
-      "time_iso": "2026-09-08T11:53:00+00:00",
+      "scheduled": "2026-09-09T11:45:00+00:00",
+      "time_iso": "2026-09-09T11:45:00+00:00",
+      "status": "em voo"
+    },
+    {
+      "callsign": "LA3925",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T11:45:00+00:00",
+      "time_iso": "2026-09-09T11:45:00+00:00",
       "status": "em voo"
     },
     {
@@ -1496,26 +1523,26 @@
       "airline": "Azul",
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T11:25:00+00:00",
-      "time_iso": "2026-09-08T11:51:00+00:00",
-      "status": "em voo"
+      "scheduled": "2026-09-09T11:25:00+00:00",
+      "time_iso": "2026-09-09T11:25:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "LA3923",
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:10:00+00:00",
-      "time_iso": "2026-09-08T11:10:00+00:00",
-      "status": "programado"
+      "scheduled": "2026-09-09T11:10:00+00:00",
+      "time_iso": "2026-09-09T11:10:00+00:00",
+      "status": "em voo"
     },
     {
       "callsign": "G31017",
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T11:10:00+00:00",
-      "time_iso": "2026-09-08T11:18:00+00:00",
+      "scheduled": "2026-09-09T11:10:00+00:00",
+      "time_iso": "2026-09-09T11:55:00+00:00",
       "status": "em voo"
     },
     {
@@ -1523,8 +1550,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T10:50:00+00:00",
-      "time_iso": "2026-09-08T10:50:00+00:00",
+      "scheduled": "2026-09-09T10:50:00+00:00",
+      "time_iso": "2026-09-09T10:50:00+00:00",
       "status": "cancelado"
     },
     {
@@ -1532,8 +1559,8 @@
       "airline": "TAP Air Portugal",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T10:50:00+00:00",
-      "time_iso": "2026-09-08T10:50:00+00:00",
+      "scheduled": "2026-09-09T10:50:00+00:00",
+      "time_iso": "2026-09-09T10:50:00+00:00",
       "status": "cancelado"
     },
     {
@@ -1541,8 +1568,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T10:40:00+00:00",
-      "time_iso": "2026-09-08T10:40:00+00:00",
+      "scheduled": "2026-09-09T10:40:00+00:00",
+      "time_iso": "2026-09-09T10:40:00+00:00",
       "status": "em voo"
     },
     {
@@ -1550,8 +1577,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T10:40:00+00:00",
-      "time_iso": "2026-09-08T10:53:00+00:00",
+      "scheduled": "2026-09-09T10:40:00+00:00",
+      "time_iso": "2026-09-09T10:59:00+00:00",
       "status": "em voo"
     },
     {
@@ -1559,8 +1586,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T10:20:00+00:00",
-      "time_iso": "2026-09-08T10:25:00+00:00",
+      "scheduled": "2026-09-09T10:20:00+00:00",
+      "time_iso": "2026-09-09T10:25:00+00:00",
       "status": "em voo"
     },
     {
@@ -1568,8 +1595,8 @@
       "airline": "Azul",
       "airport": "SBKP",
       "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T10:05:00+00:00",
-      "time_iso": "2026-09-08T10:08:00+00:00",
+      "scheduled": "2026-09-09T10:05:00+00:00",
+      "time_iso": "2026-09-09T10:06:00+00:00",
       "status": "pousado"
     },
     {
@@ -1577,8 +1604,8 @@
       "airline": "Azul",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T10:00:00+00:00",
-      "time_iso": "2026-09-08T10:05:00+00:00",
+      "scheduled": "2026-09-09T10:00:00+00:00",
+      "time_iso": "2026-09-09T09:57:00+00:00",
       "status": "em voo"
     },
     {
@@ -1586,8 +1613,8 @@
       "airline": "GOL",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T09:55:00+00:00",
-      "time_iso": "2026-09-08T09:58:00+00:00",
+      "scheduled": "2026-09-09T09:55:00+00:00",
+      "time_iso": "2026-09-09T09:59:00+00:00",
       "status": "em voo"
     },
     {
@@ -1595,8 +1622,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:40:00+00:00",
-      "time_iso": "2026-09-08T10:37:00+00:00",
+      "scheduled": "2026-09-09T09:40:00+00:00",
+      "time_iso": "2026-09-09T09:48:00+00:00",
       "status": "em voo"
     },
     {
@@ -1604,8 +1631,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBBR",
       "airport_name": "Brasilia",
-      "scheduled": "2026-09-08T09:20:00+00:00",
-      "time_iso": "2026-09-08T09:55:00+00:00",
+      "scheduled": "2026-09-09T09:20:00+00:00",
+      "time_iso": "2026-09-09T09:20:00+00:00",
       "status": "em voo"
     },
     {
@@ -1613,8 +1640,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:15:00+00:00",
-      "time_iso": "2026-09-08T09:15:00+00:00",
+      "scheduled": "2026-09-09T09:15:00+00:00",
+      "time_iso": "2026-09-09T09:15:00+00:00",
       "status": "em voo"
     },
     {
@@ -1622,8 +1649,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:05:00+00:00",
-      "time_iso": "2026-09-08T09:12:00+00:00",
+      "scheduled": "2026-09-09T09:05:00+00:00",
+      "time_iso": "2026-09-09T10:03:00+00:00",
       "status": "em voo"
     },
     {
@@ -1631,8 +1658,8 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T09:05:00+00:00",
-      "time_iso": "2026-09-08T09:10:00+00:00",
+      "scheduled": "2026-09-09T09:05:00+00:00",
+      "time_iso": "2026-09-09T09:01:00+00:00",
       "status": "em voo"
     },
     {
@@ -1640,8 +1667,8 @@
       "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:45:00+00:00",
-      "time_iso": "2026-09-08T08:45:00+00:00",
+      "scheduled": "2026-09-09T08:45:00+00:00",
+      "time_iso": "2026-09-09T08:45:00+00:00",
       "status": "em voo"
     },
     {
@@ -1649,17 +1676,26 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:45:00+00:00",
-      "time_iso": "2026-09-08T08:47:00+00:00",
+      "scheduled": "2026-09-09T08:45:00+00:00",
+      "time_iso": "2026-09-09T08:51:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "LA3911",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T08:25:00+00:00",
+      "time_iso": "2026-09-09T08:25:00+00:00",
+      "status": "programado"
     },
     {
       "callsign": "AD4051",
       "airline": "Azul",
       "airport": "SBCF",
       "airport_name": "Belo Horizonte / Confins",
-      "scheduled": "2026-09-08T08:20:00+00:00",
-      "time_iso": "2026-09-08T08:30:00+00:00",
+      "scheduled": "2026-09-09T08:20:00+00:00",
+      "time_iso": "2026-09-09T08:21:00+00:00",
       "status": "em voo"
     },
     {
@@ -1667,17 +1703,8 @@
       "airline": "GOL",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:10:00+00:00",
-      "time_iso": "2026-09-08T08:19:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "LA3909",
-      "airline": "LATAM Airlines",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:00:00+00:00",
-      "time_iso": "2026-09-08T08:00:00+00:00",
+      "scheduled": "2026-09-09T08:10:00+00:00",
+      "time_iso": "2026-09-09T08:18:00+00:00",
       "status": "em voo"
     },
     {
@@ -1685,26 +1712,44 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T08:00:00+00:00",
-      "time_iso": "2026-09-08T08:03:00+00:00",
+      "scheduled": "2026-09-09T08:00:00+00:00",
+      "time_iso": "2026-09-09T08:02:00+00:00",
       "status": "em voo"
+    },
+    {
+      "callsign": "LA3909",
+      "airline": "LATAM Airlines",
+      "airport": "SBSP",
+      "airport_name": "Sao Paulo / Congonhas",
+      "scheduled": "2026-09-09T08:00:00+00:00",
+      "time_iso": "2026-09-09T08:00:00+00:00",
+      "status": "programado"
+    },
+    {
+      "callsign": "AD2714",
+      "airline": "Azul",
+      "airport": "SBKP",
+      "airport_name": "Campinas / Viracopos",
+      "scheduled": "2026-09-09T07:50:00+00:00",
+      "time_iso": "2026-09-09T07:50:00+00:00",
+      "status": "pousado"
     },
     {
       "callsign": "AD4645",
       "airline": "Azul",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T07:50:00+00:00",
-      "time_iso": "2026-09-08T07:56:00+00:00",
+      "scheduled": "2026-09-09T07:50:00+00:00",
+      "time_iso": "2026-09-09T07:58:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "ET1246",
+      "callsign": "ET1248",
       "airline": "Ethiopian Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T07:50:00+00:00",
-      "time_iso": "2026-09-08T07:56:00+00:00",
+      "scheduled": "2026-09-09T07:50:00+00:00",
+      "time_iso": "2026-09-09T07:58:00+00:00",
       "status": "em voo"
     },
     {
@@ -1712,8 +1757,8 @@
       "airline": "Air Europa",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T07:50:00+00:00",
-      "time_iso": "2026-09-08T07:56:00+00:00",
+      "scheduled": "2026-09-09T07:50:00+00:00",
+      "time_iso": "2026-09-09T07:58:00+00:00",
       "status": "em voo"
     },
     {
@@ -1721,26 +1766,17 @@
       "airline": "TAP Air Portugal",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T07:50:00+00:00",
-      "time_iso": "2026-09-08T07:56:00+00:00",
+      "scheduled": "2026-09-09T07:50:00+00:00",
+      "time_iso": "2026-09-09T07:58:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "TK9174",
-      "airline": "Turkish Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T13:45:00+00:00",
-      "time_iso": "2026-09-08T07:56:00+00:00",
-      "status": "programado"
-    },
-    {
-      "callsign": "ET1248",
+      "callsign": "ET1246",
       "airline": "Ethiopian Airlines",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T07:50:00+00:00",
-      "time_iso": "2026-09-08T07:56:00+00:00",
+      "scheduled": "2026-09-09T07:50:00+00:00",
+      "time_iso": "2026-09-09T07:58:00+00:00",
       "status": "em voo"
     },
     {
@@ -1748,26 +1784,8 @@
       "airline": "Alitalia",
       "airport": "SBGR",
       "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T07:50:00+00:00",
-      "time_iso": "2026-09-08T07:56:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "AD2714",
-      "airline": "Azul",
-      "airport": "SBKP",
-      "airport_name": "Campinas / Viracopos",
-      "scheduled": "2026-09-08T07:50:00+00:00",
-      "time_iso": "2026-09-08T08:00:00+00:00",
-      "status": "pousado"
-    },
-    {
-      "callsign": "LA3905",
-      "airline": "LATAM Airlines",
-      "airport": "SBSP",
-      "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T07:10:00+00:00",
-      "time_iso": "2026-09-08T07:10:00+00:00",
+      "scheduled": "2026-09-09T07:50:00+00:00",
+      "time_iso": "2026-09-09T07:58:00+00:00",
       "status": "em voo"
     },
     {
@@ -1775,35 +1793,17 @@
       "airline": "Azul",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T07:10:00+00:00",
-      "time_iso": "2026-09-08T07:16:00+00:00",
+      "scheduled": "2026-09-09T07:10:00+00:00",
+      "time_iso": "2026-09-09T07:21:00+00:00",
       "status": "em voo"
     },
     {
-      "callsign": "G31049",
-      "airline": "GOL",
+      "callsign": "LA3905",
+      "airline": "LATAM Airlines",
       "airport": "SBSP",
       "airport_name": "Sao Paulo / Congonhas",
-      "scheduled": "2026-09-08T07:00:00+00:00",
-      "time_iso": "2026-09-08T07:05:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "LA3259",
-      "airline": "LATAM Airlines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T06:45:00+00:00",
-      "time_iso": "2026-09-08T06:45:00+00:00",
-      "status": "em voo"
-    },
-    {
-      "callsign": "DL6276",
-      "airline": "Delta Air Lines",
-      "airport": "SBGR",
-      "airport_name": "Sao Paulo / Guarulhos",
-      "scheduled": "2026-09-08T06:45:00+00:00",
-      "time_iso": "2026-09-08T06:46:00+00:00",
+      "scheduled": "2026-09-09T07:10:00+00:00",
+      "time_iso": "2026-09-09T07:10:00+00:00",
       "status": "em voo"
     }
   ]
